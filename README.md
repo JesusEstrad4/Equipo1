@@ -1,7 +1,7 @@
 Hola que tal  
 Estos sensores se probaron en la Pico W usando el lenguaje Micropython
 
-integrantes:
+integrantes:  
 Estrada Jimenez Luis Jesus
 
 

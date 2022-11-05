@@ -1,8 +1,7 @@
 from machine import Pin
-import time,utime  
-
-iman=Pin(15,Pin.IN)  
-led=Pin(16,Pin.OUT)
+import time,utime
+    iman=Pin(15,Pin.IN)
+    led=Pin(16,Pin.OUT)
 
 while True:
     try:

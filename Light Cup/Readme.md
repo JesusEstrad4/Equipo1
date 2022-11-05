@@ -8,4 +8,4 @@
         if nivel.value() == 0:
             print("No está nivelado")
         elif nivel.value()==1:
-            print("Está ")
+            print("Está nivelado")

@@ -5,7 +5,7 @@ Estos sensores se probaron en la Pico W usando el lenguaje Micropython
 integrantes:  
 Estrada Jimenez Luis Jesus  
 Ramirez Bastidas Jose Daniel 
-<br>Jesus Roman Dominguez Garcia  
+Dominguez Garcia Jesus Roman  
 Rodriguez Moreno Omar Gamaliel  
 Verjan Santoyo Edgar  
 

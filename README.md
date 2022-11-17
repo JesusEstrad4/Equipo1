@@ -2,7 +2,8 @@
 Hola que tal.  
 Estos sensores se probaron en la Pico W usando el lenguaje Micropython.
 
-integrantes:  
+integrantes:
+Brito Guzmán Axel Uriel.
 Estrada Jimenez Luis Jesus.  
 Ramirez Bastidas Jose Daniel.   
 Dominguez Garcia Jesus Roman.  

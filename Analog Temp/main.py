@@ -1,18 +1,16 @@
 """
-Omar Gamaliel Rodriguez Moreno
-Usuario Barny-Claus
-Estudiante del Instituto Tecnológico de Tijuana
+Equipo Fila 1:
+      Argueta Garcia Osman
+      Brito Guzman Axel Uriel
+      Dominguez Garcia Jesus Roman
+      Estrada Jimenez Luis Jesus
+      Ramirez Bastidas Jose Daniel
+      Rodriguez Moreno omar Gamaliel
+      Verjan Santoyo Edgar
+      Vazquez Gutierrez Johan Sebastian
+Estudiantes del Instituto Tecnológico de Tijuana
   Materia: Sistemas programables
+  Fecha: 
 """
-from machine import Pin
-import time,utime  
-
-lector=Pin(15,Pin.IN)  
-factorconversion = 3.3 / 65365
-
-while True:
-     
-    celsius = lector.read_u16() * factorconversion
-    temperatura = 27 - (celsius - 0.706) / 0.001721
-    print(temperatura)
-    utime.sleep(1)
+Programa directo de la pico
+así como está ahí debe estar aquí

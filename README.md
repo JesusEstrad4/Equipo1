@@ -9,5 +9,7 @@ Estos sensores se probaron en la Pico W usando el lenguaje Micropython.
 * Dominguez Garcia Jesus Roman.  
 * Rodriguez Moreno Omar Gamaliel.  
 * Verjan Santoyo Edgar.  
+* Vazquez Gutierrez Johan sebastian.
+* Argueta Garcia Ozman.  
 
 ![Alt text](https://github.com/JesusEstrad4/Sensores_Pico_W/blob/main/Imagenes_presentacion/Pico.jpg)
